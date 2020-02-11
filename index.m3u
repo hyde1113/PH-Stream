@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0,Pinoystream Versatile Radio
-http://94.23.26.22:8040/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:0,98.3 Love Radio - Puerto Princesa City, Palawan
-http://178.32.62.163:9408/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/bUepAp5.png" tvg-country="US" tvg-url="" group-title="",National Geograpic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.qabayanfm.com/templates/qabayan_joomla/images/designer/c30b9281811e06cff015d9d3a400f488_qab_new_logo.svg" radio="true", Qabayan Radio 94.3
 http://streamingv2.shoutcast.com/qabayan-radio?:8000/
