@@ -9,5 +9,5 @@ https://manilabr.radioca.st/listen.pls?sid=1
 http://37.59.28.208:8500/stream
 #EXTINF:0,98.3 Love Radio - Puerto Princesa City, Palawan
 http://178.32.62.163:9408/stream
-#EXTINF:0,Wish 107.5
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/150px-Wish_107.5_%282015%29.svg.png" group-title="radio" radio="true", Wish 107.5
 http://untv.mmdlive.lldns.net/untv/755d0553cdee4631ae561a3897874d51/manifest.m3u8
