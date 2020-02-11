@@ -2,7 +2,7 @@
 #EXTINF:0,Pinoystream Versatile Radio
 http://94.23.26.22:8040/live.mp3
 #EXTINF:-1, tvg-logo="https://www.qabayanfm.com/templates/qabayan_joomla/images/designer/c30b9281811e06cff015d9d3a400f488_qab_new_logo.svg" radio="true", Qabayan Radio 94.3
-http://streaming401.radionomy.com:80/qabayan-radio
+http://streamingv2.shoutcast.com/qabayan-radio?:8000/
 #EXTINF:-1, tvg-logo="https://www.loveradio.com.ph/wp-content/themes/loveradio2017/images/dj-lovelogo.jpg" radio="true", Love Radio 90.7
 https://manilabr.radioca.st/listen.pls?sid=1
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Yes_The_Best_new_logo.jpg/220px-Yes_The_Best_new_logo.jpg" radio="true", Yes! FM 101.9
