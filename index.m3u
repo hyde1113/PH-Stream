@@ -1,13 +1,30 @@
 #EXTM3U
 #EXTINF:0,Pinoystream Versatile Radio
 http://94.23.26.22:8040/live.mp3
+
 #EXTINF:-1, tvg-logo="https://www.qabayanfm.com/templates/qabayan_joomla/images/designer/c30b9281811e06cff015d9d3a400f488_qab_new_logo.svg" radio="true", Qabayan Radio 94.3
 http://streamingv2.shoutcast.com/qabayan-radio?:8000/
+
 #EXTINF:-1, tvg-logo="https://www.loveradio.com.ph/wp-content/themes/loveradio2017/images/dj-lovelogo.jpg" radio="true", Love Radio 90.7
 https://manilabr.radioca.st/listen.pls?sid=1
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Yes_The_Best_new_logo.jpg/220px-Yes_The_Best_new_logo.jpg" radio="true", Yes! FM 101.9
 http://37.59.28.208:8500/stream
+
 #EXTINF:0,98.3 Love Radio - Puerto Princesa City, Palawan
 http://178.32.62.163:9408/stream
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/150px-Wish_107.5_%282015%29.svg.png" radio="true", Wish 107.5
 http://untv.mmdlive.lldns.net/untv/755d0553cdee4631ae561a3897874d51/manifest.m3u8
+
+#EXTINF:-1, tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/fxrjxqp6tyjm.jpg" radio="true", Mellow 94.7
+http://s3.free-shoutcast.com:18342/stream/1/
+
+#EXTINF:-1, tvg-logo="https://static-media.streema.com/media/cache/58/c5/58c5ffb0b9d0931a887c390ac46cfa0e.jpg" radio="true", Easy Rock 96.3
+https://jegala00.radioca.st/stream/1/
+
+#EXTINF:-1, tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/3QaNGBqJ5K.png" radio="true", Rakista Radio
+http://206.190.138.197:8000/stream/1/
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png" radio="true", Star FM
+http://node-04.zeno.fm/n51d54pctrquv
