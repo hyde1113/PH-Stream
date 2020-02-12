@@ -33,7 +33,7 @@ https://manilabr.radioca.st/listen.pls?sid=1
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Yes_The_Best_new_logo.jpg/220px-Yes_The_Best_new_logo.jpg" radio="true", Yes! FM 101.9
 http://37.59.28.208:8500/stream
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/150px-Wish_107.5_%282015%29.svg.png" radio="true", Wish 107.5
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AGF-l79Wb3VOP-bDb9Olp_Sdi5mRyz68IsQb3zUeCQ=s900-c-k-c0xffffffff-no-rj-mo" radio="true", Wish 107.5
 http://untv.mmdlive.lldns.net/untv/755d0553cdee4631ae561a3897874d51/manifest.m3u8
 
 #EXTINF:-1, tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/fxrjxqp6tyjm.jpg" radio="true", Mellow 94.7
