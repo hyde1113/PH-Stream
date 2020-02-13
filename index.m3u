@@ -28,7 +28,7 @@ http://83.167.253.110:5000/live/discovery/playlist.m3u8
 http://streamingv2.shoutcast.com/qabayan-radio?:8000/
 
 #EXTINF:-1, tvg-logo="https://www.loveradio.com.ph/wp-content/themes/loveradio2017/images/dj-lovelogo.jpg" radio="true", Love Radio 90.7
-https://manilabr.radioca.st/listen.pls?sid=1
+http://hyades.shoutca.st:8146/stream/1/
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Yes_The_Best_new_logo.jpg/220px-Yes_The_Best_new_logo.jpg" radio="true", Yes! FM 101.9
 http://37.59.28.208:8500/stream
