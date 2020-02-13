@@ -48,5 +48,5 @@ http://206.190.138.197:8000/stream/1/
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png" radio="true", Star FM
 http://node-04.zeno.fm/n51d54pctrquv
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png" radio="true", Barangay LS 97.1
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Barangay_LS_97.1.png" radio="true", Barangay LS 97.1
 http://curiosity.shoutca.st:8098/stream
