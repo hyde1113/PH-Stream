@@ -42,9 +42,6 @@ http://s3.free-shoutcast.com:18342/stream/1/
 #EXTINF:-1, tvg-logo="https://static-media.streema.com/media/cache/58/c5/58c5ffb0b9d0931a887c390ac46cfa0e.jpg" radio="true", Easy Rock 96.3
 https://jegala00.radioca.st/stream/1/
 
-#EXTINF:-1, tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/3QaNGBqJ5K.png" radio="true", Rakista Radio
-http://206.190.138.197:8000/stream/1/
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png" radio="true", Star FM
 http://node-04.zeno.fm/n51d54pctrquv
 
