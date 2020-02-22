@@ -64,3 +64,6 @@ http://node-04.zeno.fm/n51d54pctrquv
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Barangay_LS_97.1.png" radio="true", Barangay LS 97.1
 http://curiosity.shoutca.st:8098/stream
+
+#EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/74210.v1.png" radio="true", 103.5 KLite
+https://streamingv2.shoutcast.com/1035Klite
