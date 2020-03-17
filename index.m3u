@@ -42,6 +42,9 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/HSklqOj.jpg" group-title="",Inquirer 990 Television
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="",UNTV
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://www.qabayanfm.com/templates/qabayan_joomla/images/designer/c30b9281811e06cff015d9d3a400f488_qab_new_logo.svg" radio="true", Qabayan Radio 94.3
 http://streamingv2.shoutcast.com/qabayan-radio?:8000/
